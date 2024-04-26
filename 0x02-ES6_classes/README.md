@@ -1,0 +1,1 @@
+s project offers tasks to explore ES6 classes in JavaScript, covering concepts like class initialization, getters/setters, and method implementation. Led by Lead Software Engineer Moses Muchai from ALX SE, enrolled in the Software Engineering Mastercard Foundation program at Holberton, the tasks aim to provide a hands-on understanding of modern OOP principles in JavaScript.
