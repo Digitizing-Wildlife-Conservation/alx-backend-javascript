@@ -5,7 +5,7 @@
  *   firstName: String,
  *   location: String
  * }[]} students - The list of students.
- * @author Bezaleel Olakunori <https://github.com/B3zaleel>
+ * @author Moses Muchai <https://github.com/Digitizing-Wildlife-Conservation>
  * @returns {Number}
  */
 export default function getStudentIdsSum(students) {
